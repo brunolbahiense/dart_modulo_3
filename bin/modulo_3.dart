@@ -24,7 +24,7 @@ void escolherMeioDeTransporte(Transporte locomocao){
   }
 }
 
-enum Transporte{
+ enum Transporte {
   carro,
   bike,
   andando,
